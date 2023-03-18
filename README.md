@@ -1,11 +1,11 @@
 # socialnetADs
 
 # Social-Networks-Ads
-One of the most basic data sets to learn and implement some of the most easy and basic algorithms of machine learning and visualization
+data sets from kaggle - implemented algorithms of machine learning and also visualized the results 
 
 
 Social Network Ads
-A categorical dataset to determine whether a user purchased a particular product
+A categorical dataset to determine whether a user purchased a particular product.
 
 # using SVC
 In machine learning, support-vector machines (SVMs, also support-vector networks[1]) are supervised learning models with associated learning algorithms that analyze data used for classification and regression analysis. Given a set of training examples, each marked as belonging to one or the other of two categories, an SVM training algorithm builds a model that assigns new examples to one category or the other, making it a non-probabilistic binary linear classifier (although methods such as Platt scaling exist to use SVM in a probabilistic classification setting). A SVM model is a representation of the examples as points in space, mapped so that the examples of the separate categories are divided by a clear gap that is as wide as possible. New examples are then mapped into that same space and predicted to belong to a category based on which side of the gap they fall.
